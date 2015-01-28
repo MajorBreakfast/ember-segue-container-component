@@ -22,6 +22,19 @@ Example:
   - `to`: Two-way binding (passed-in value wins), passed into `.create()` as inital value
   - `from`: Two-way binding (component's value wins)
 
+# Installation and Setup
+
+`jspm install ember-segue-container-component=github:MajorBreakfast/ember-segue-container-component`
+
+``` JavaScript
+import Ember from 'ember'
+import SegueContainerComponent from 'ember-segue-container-component'
+
+var App = Ember.Application.create({
+  SegueContainerComponent
+})
+```
+
 # Video
 
 I'll do a talk on January 29th at the Ember Munich Meetup about this. This talk will be available on YouTube
