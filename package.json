@@ -1,0 +1,14 @@
+{
+  "name": "ember-segue-container",
+  "version": "0.9.0",
+  "jspm": {
+    "main": "lib/component",
+    "dependencies": {
+      "css": "^0.1.0"
+    },
+    "buildConfig": {
+      "transpileES6": true,
+      "minify": true
+    }
+  }
+}
