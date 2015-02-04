@@ -37,7 +37,7 @@ var App = Ember.Application.create({
 
 # Video
 
-I'll do a talk on January 29th at the Ember Munich Meetup about this. This talk will be available on YouTube
+I did a talk on January 29th at the Ember Munich Meetup about this. The recording [is available on YouTube](http://youtu.be/Z-ZQBO6-f8Q).
 
 # Q&A
 
